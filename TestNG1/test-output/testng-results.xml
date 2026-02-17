@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-17T17:33:43 IST" name="Suite" finished-at="2026-02-17T17:33:45 IST" duration-ms="2591">
+    <groups>
+    </groups>
+    <test started-at="2026-02-17T17:33:43 IST" name="Test" finished-at="2026-02-17T17:33:45 IST" duration-ms="2591">
+      <class name="com.koushik.testing.TestNG1.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.koushik.testing.TestNG1.LoginTest@6c6cb480]" started-at="2026-02-17T17:33:43 IST" name="setup" finished-at="2026-02-17T17:33:45 IST" duration-ms="2127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validLoginTest()[pri:0, instance:com.koushik.testing.TestNG1.LoginTest@6c6cb480]" started-at="2026-02-17T17:33:45 IST" name="validLoginTest" finished-at="2026-02-17T17:33:45 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.koushik.testing.TestNG1.LoginTest@6c6cb480]" started-at="2026-02-17T17:33:45 IST" name="close" finished-at="2026-02-17T17:33:45 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.koushik.testing.TestNG1.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
